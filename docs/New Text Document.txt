@@ -1,0 +1,6 @@
+## Proof of concept
+
+### Most valauble apps to start with
+Ebook Library: calibre, calibre-web (Python + Docker)
+Instant Message: Mattermost (Go + docker)
+Media Mgmt: Jellyfin (C# + docker)
